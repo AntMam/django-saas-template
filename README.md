@@ -1,0 +1,1 @@
+# A template for saas apps using django-tenants
